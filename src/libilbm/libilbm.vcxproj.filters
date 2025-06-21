@@ -54,6 +54,15 @@
     <ClCompile Include="viewport.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="cmykmap.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="colornames.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="dpiheader.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="bitmapheader.h">
@@ -93,6 +102,15 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="viewport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="colornames.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cmykmap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="dpiheader.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
